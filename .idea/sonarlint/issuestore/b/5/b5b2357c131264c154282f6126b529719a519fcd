@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Ã¯ì8ë„Ö¶Ð1
+b
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(Áž Òùÿÿÿÿ8•…Ö¶Ð1
+[
+java:S1155-">Use isEmpty() to check whether the collection is empty or not.(œÛØÆ8–…Ö¶Ð1
+b
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(ŠÕÇ„þÿÿÿÿ8™…Ö¶Ð1

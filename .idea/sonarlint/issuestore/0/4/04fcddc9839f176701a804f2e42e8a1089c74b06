@@ -1,0 +1,17 @@
+
+p
+java:S1192!"NDefine a constant instead of duplicating this literal "insert data: " 3 times.(ƒÜÜ¿ýÿÿÿÿ8„¸ì…Ñ1
+~
+java:S2629!"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ƒÜÜ¿ýÿÿÿÿ8Š¸ì…Ñ1
+y
+java:S2629""\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(®Ç·á8Š¸ì…Ñ1
+y
+java:S2629#"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(õ×¤´8Š¸ì…Ñ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á“–ˆúÿÿÿÿ8Œ¸ì…Ñ1
+c
+java:S3457!"AFormat specifiers should be used instead of string concatenation.(ƒÜÜ¿ýÿÿÿÿ8Ï¸ì…Ñ1
+^
+java:S3457""AFormat specifiers should be used instead of string concatenation.(®Ç·á8Ð¸ì…Ñ1
+^
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(õ×¤´8Ñ¸ì…Ñ1
+ssecrets:S6697"NMake sure this MySQL database password gets changed and removed from the code.(ÍÖÿÑþÿÿÿÿ8®Àì…Ñ1

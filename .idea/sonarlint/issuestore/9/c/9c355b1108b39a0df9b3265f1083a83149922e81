@@ -1,0 +1,6 @@
+
+
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "urlPath".(Ê†¡µüÿÿÿÿ8Ÿµì…Ñ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Ã¯ì8§µì…Ñ1
+T
+java:S1128"2Remove this unused import 'javax.xml.xpath.XPath'.(Ÿ÷è­üÿÿÿÿ8‹·ì…Ñ1
